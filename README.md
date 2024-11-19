@@ -8,5 +8,5 @@
 - Put **“BeatSaber”** - **“Plugins”**
 ![](https://static.truegear.cn/bbs/BeatSaber/7.gif)
 
-- **### Close the installation window when finished, do not click install ！！！！！ **
+- ** Close the installation window when finished, do not click install ！！！！！ **
 ![](https://static.truegear.cn/bbs/BeatSaber/img9.png)
