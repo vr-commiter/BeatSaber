@@ -6,7 +6,7 @@
 
 - Download [BeatSaber_TrueGear Mod](https://static.truegear.cn/bbs/BeatSaber/BeatSaber_TrueGear.rar) or [BeatSaber_TrueGear1.29](https://static.truegear.cn/BeatSaber/BeatSaber1.29.rar)
 - Put **“BeatSaber”** - **“Plugins”**
-![](https://static.truegear.cn/bbs/BeatSaber/17.gif)
+![](https://static.truegear.cn/bbs/BeatSaber/7.mp4)
 
 - ** Close the installation window when finished, do not click install ！！！！！ **
 ![](https://static.truegear.cn/bbs/BeatSaber/img9.png)
