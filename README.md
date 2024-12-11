@@ -1,4 +1,6 @@
-### Installed BSIPA Frame
+### If you have already installed "BSIPA" please continue, otherwise click "NEXT" directly
+
+### Installed BSIPA Frame 
 - Download [BeatSaber_Effect](https://static.truegear.cn/BeatSaber/620980.rar)
 
 - Place the downloaded effects into **“truegear_workspace”** - **“data”**
